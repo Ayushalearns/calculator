@@ -1,0 +1,26 @@
+.body{
+    background-color: rgb(243, 252, 252);
+}
+.button{
+    border-color: rgb(80, 208, 153);
+    color:aliceblue;
+    background-color: rgb(58, 204, 128);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.button2{
+    border-color: rgb(80, 140, 208);
+    color:aliceblue;
+    background-color: rgb(37, 84, 130);
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.clear{
+     border-color: rgb(80, 140, 208);
+    color:aliceblue;
+    background-color: rgb(37, 84, 130);
+    width: 200px;
+    height: 100px;
+}
